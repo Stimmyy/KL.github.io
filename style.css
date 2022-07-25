@@ -663,9 +663,7 @@ a {
     color: #575757!important;
 }
 
-.container {
-    max-width: 1000px;
-}
+
 
 .hero-bloc-text {
     font-size: 38px;
@@ -839,6 +837,11 @@ h4 {
     color:black!important;
 }
 
+.footer-icon:hover
+{
+    color:#575757!important;
+}
+
 .col-sm-12{
     display:flex;
     flex-flow: column nowrap;
@@ -852,7 +855,15 @@ h4 {
     margin: auto;
 }
 
+.text-center
+{
+    text-align:center;
+}
 
+.col-sm-12 .black
+{
+    color:black!important;
+}
 
 
 @media (max-width: 1024px) {

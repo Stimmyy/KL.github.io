@@ -829,6 +829,16 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.footer-text
+{
+    color:black!important;
+}
+
+.footer-icon
+{
+    color:black!important;
+}
+
 .col-sm-12{
     display:flex;
     flex-flow: column nowrap;
@@ -841,6 +851,8 @@ h4 {
     gap:70px;
     margin: auto;
 }
+
+
 
 
 @media (max-width: 1024px) {

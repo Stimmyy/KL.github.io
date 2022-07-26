@@ -743,6 +743,8 @@ h4 {
 }
 
 .portfolio-thumb {
+    height:270px;
+    width:270px;
     margin-bottom: 24px;
 }
 
@@ -876,6 +878,24 @@ h4 {
 }
 
 
+
+.navbar-brand img
+{
+    height:40px;
+    width:217px;
+}
+
+
+.logo
+{
+    height:100px;
+    width:100px;
+}
+
+
+
+
+
 .navbar-nav li a
 {
     border-bottom: 1px solid  transparent;
@@ -885,10 +905,6 @@ h4 {
 { 
      border-color: black;
 }
-
-
-
-
 
 @media (max-width: 1024px) {
     .bloc {

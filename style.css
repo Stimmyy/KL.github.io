@@ -865,6 +865,23 @@ h4 {
     color:black!important;
 }
 
+.block-bottom
+{
+    white-space:nowrap;
+}
+
+
+.navbar-nav li a
+{
+    border-bottom: 1px solid  transparent;
+}
+
+.nav li:hover a
+{ 
+     border-color: black;
+}
+
+
 
 @media (max-width: 1024px) {
     .bloc {
